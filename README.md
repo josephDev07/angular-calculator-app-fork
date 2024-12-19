@@ -1,4 +1,4 @@
-// added something just for test !
+// added something just for test frok  !
 # Angular 9/8 Example and Tutorial: Build a Calculator Application
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) 
